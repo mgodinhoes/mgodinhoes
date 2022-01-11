@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgodinhoes #Marcelo G
+#- 👋 Hi, I’m @mgodinhoes #Marcelo G
 - 👀 I’m interested in NET CORE, C#, C++
 - 🌱 I’m currently learning ANGULAR, REACT, NODE, MONGODB
 - 💞️ I’m looking to collaborate on various project´s around the world
